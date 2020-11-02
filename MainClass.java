@@ -14,3 +14,5 @@ public class MainClass {
 
 //Also the cash added into deposit slot is not allowed to be withdrawn by customers until verified and hence ,these notes wont add to the
 //remaining no of notes in atm..
+
+//Customer details are to be manually added into the database. These information includes accountNo, pinNo and Balance.
